@@ -1,2 +1,2 @@
 # HybridSailboatControl
-This is some code about Hybrid Sailboat control. 
+This is some code about Hybrid Sailboat control.
